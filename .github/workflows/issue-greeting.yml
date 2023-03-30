@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: peter-evans/create-or-update-comment@v2
         with:
-          issue-number: 2 
+          issue-number: 3 
           body: |
             Thank you for submitting an issue. Our team will review, triage, and respond to issues as we are able. 
             As a reminder, if you're reporting a bug, please include as much detail as you can, including things like:
