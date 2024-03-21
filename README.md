@@ -1,2 +1,2 @@
 # actions-demo
-For demonstrating actions to clinical informatics fellows
+For demonstrating actions to Clinical Informatics fellows
